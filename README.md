@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am John, currently a masters student at Shanghai Jiao Tong University.
+### I am John, currently a Ph.D. student at Texas A&M.
 
 ### I am interested in 3D assets generation, 3D vision and computer graphics!
 
