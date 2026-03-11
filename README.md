@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-### I am John, currently a Ph.D. student at Texas A&M.
-
-### I am interested in 3D assets generation, 3D vision and computer graphics!
+### I am Jionghao Wang, a Ph.D. student in Computer Science. I aim to bridge learning and action in the physical world, specifically through 3D learning, vision and beyond.
 
 <!--
 **shanemankiw/shanemankiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
