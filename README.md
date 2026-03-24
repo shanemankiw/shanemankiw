@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### I am Jionghao Wang, a Ph.D. student in Computer Science. 
-### I aim to bridge learning and action in the physical world, specifically through 3D learning, vision and beyond.
+### I am Jionghao Wang, a research student in Computer Science. 
+### I aim to bridge learning and action in the physical world, specifically through 3D generation, physics-based motion and robot learning.
 
 <!--
 **shanemankiw/shanemankiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
